@@ -1,6 +1,6 @@
 ### Hi, My Name Is Steve Tautonico!
 -----------
-I'm a software engineer that specializes in web development.
+I'm a software engineer that specializes in web development and penetration testing.
 
 ```typescript
 // environment.ts
