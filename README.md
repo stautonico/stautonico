@@ -22,10 +22,10 @@ export const environment = {
             databases: ["mongodb", "mysql", "sqlite"]
         },
         mobile: ["native script", "angular", "flutter"],
-        devops: ["aws", "nginx", "gcp", "selfhost", "digitalocean", "github actions"],
+        devops: ["aws", "nginx", "gcp", "selfhost", "digitalocean", "github actions", "webpack"],
         misc: ["redis"]
     },
-    currentOS: "pop-os",
+    currentOS: "Arch Linuxtautonico.tech",
     pgpKey: "https://stautonico.keybase.pub/public_pgp.txt",
     social: {
         "website": "https://tautonico.tech/",
