@@ -25,7 +25,7 @@ export const environment = {
         devops: ["aws", "nginx", "gcp", "selfhost", "digitalocean", "github actions", "webpack"],
         misc: ["redis"]
     },
-    currentOS: "Arch Linuxtautonico.tech",
+    currentOS: "Arch Linux",
     pgpKey: "https://stautonico.keybase.pub/public_pgp.txt",
     social: {
         "website": "https://tautonico.tech/",
