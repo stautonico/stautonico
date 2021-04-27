@@ -10,7 +10,7 @@ export const environment = {
     job: "software engineer",
     interests: ["web development", "pen testing", "mobile development", "networking", "it", "homelabs"],
     technologies: {
-        languages: ["python", "javascript", "typescript", "java", "dart", "css", "less", "html"],
+        languages: ["python", "javascript", "typescript", "java", "dart", "css", "less", "html", "rust", "c++"],
         runTimes: ["nodejs", "deno"],
         frontend: {
             js: ["typescript", "javascript", "jquery"],
@@ -26,6 +26,7 @@ export const environment = {
         misc: ["redis"]
     },
     currentOS: "Arch Linux",
+    currentDE: "SDDM + XFCE4"
     pgpKey: "https://stautonico.keybase.pub/public_pgp.txt",
     social: {
         "website": "https://tautonico.tech/",
@@ -39,3 +40,4 @@ export const environment = {
 [![Steve's Github Status](https://github-readme-stats.vercel.app/api?username=stautonico&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stautonico)](https://github.com/anuraghazra/github-readme-stats)
+Linux Device
