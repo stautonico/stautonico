@@ -26,7 +26,7 @@ export const environment = {
         misc: ["redis"]
     },
     currentOS: "Arch Linux",
-    currentDE: "SDDM + XFCE4"
+    currentDE: "SDDM + QTile"
     pgpKey: "https://stautonico.keybase.pub/public_pgp.txt",
     social: {
         "website": "https://tautonico.tech/",
