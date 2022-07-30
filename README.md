@@ -10,7 +10,7 @@ export const environment = {
     job: "software engineer",
     interests: ["web development", "pen testing", "mobile development", "networking", "it", "homelabs"],
     technologies: {
-        languages: ["python", "javascript", "typescript", "java", "dart", "css", "less", "html", "rust", "c++"],
+        languages: ["python", "javascript", "typescript", "java", "dart", "css", "less", "html", "rust", "c++", "c"],
         runTimes: ["nodejs", "deno"],
         frontend: {
             js: ["typescript", "javascript", "jquery"],
@@ -26,10 +26,10 @@ export const environment = {
         misc: ["redis"]
     },
     currentOS: "Arch Linux",
-    currentDE: "SDDM + QTile"
+    currentDE: "SDDM + i3"
     pgpKey: "https://stautonico.keybase.pub/public_pgp.txt",
     social: {
-        "website": "https://tautonico.tech/",
+        "website": "https://dotslashsteve.sh/",
         "github": "https://github.com/stautonico/",
         "keybase": "https://keybase.io/stautonico",
         "email": "steve@omg.lol"
